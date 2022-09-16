@@ -7,7 +7,7 @@
 
 import Foundation
 
-//классная работа
+//классная работа вот
 var a1 = 0
 var b1 = 0
 func showChet(number:Int){
