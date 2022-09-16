@@ -7,8 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
-let F = 101093
+//классная работа
 var a1 = 0
 var b1 = 0
 func showChet(number:Int){
@@ -57,3 +56,4 @@ showBolshe(number1: Int(number10) ?? 0)
 showBolshe(number1: Int(number20) ?? 0)
 showBolshe(number1: Int(number30) ?? 0)
 showBolshe(number1: Int(number40) ?? 0)
+
